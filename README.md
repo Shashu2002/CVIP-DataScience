@@ -1,8 +1,6 @@
 # CVIP-DataScience
 # Exploratory Data Analysis (EDA) on Terrorism
 
-![Terrorism](terrorism_image.jpg) <!-- Replace with an appropriate image related to the topic -->
-
 ## Overview
 
 This repository contains the code and data for an Exploratory Data Analysis (EDA) project focused on analyzing global terrorism incidents. The project aims to gain insights into patterns, trends, and characteristics of terrorist attacks using data visualization and statistical analysis.
