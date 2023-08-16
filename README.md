@@ -34,4 +34,31 @@ The analysis is conducted using the Global Terrorism Database (GTD), which provi
 
 1. Clone this repository to your local machine using `git clone <repository_url>`.
 2. Navigate to the `notebooks/` directory.
-3.
+3. Open the Jupyter Notebook files to see the step-by-step EDA process and visualizations.
+
+## Results
+
+Some of the insights derived from the analysis include:
+
+- The most affected regions by terrorism incidents.
+- Distribution of attack types (e.g., bombings, armed assaults).
+- Trends in terrorist activities over the years.
+- Common targets and their distribution.
+
+## Limitations
+
+- The analysis is based on available data and might not capture all terrorism incidents accurately.
+- Factors such as data collection methods and reporting biases can impact the results.
+
+## Contribution
+
+Contributions to enhance the analysis or add new insights are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
+
+## Contact
+
+For any questions or suggestions related to this project, feel free to contact [your name] via [your email address].
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
